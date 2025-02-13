@@ -1,4 +1,4 @@
-<img align="right" alt="AWS Badge" src="https://pages.awseducate.com/rs/773-JYK-169/images/Pattern_LinkedinBanner.png"/>
+<img align="right" alt="AWS Badge" src="https://pages.awseducate.com/rs/773-JYK-169/images/Macro_Social_16x9.png"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm D.P. Liyanagama </h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
